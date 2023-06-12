@@ -113,80 +113,80 @@ import ThreeDots from '@/components/partials/ThreeDots.vue';
 const backend = [
     {
         title: 'Laravel',
-        img: '/src/assets/img/tech_logo/laravel_noword.png',
+        img: new URL('@/assets/img/tech_logo/laravel_noword.png', import.meta.url),
     },
     {
         title: 'PHP',
-        img: '/src/assets/img/tech_logo/php.png',
+        img: new URL('@/assets/img/tech_logo/php.png', import.meta.url),
     }
     ,
     {
         title: 'C\#',
-        img: '/src/assets/img/tech_logo/cs.png',
+        img: new URL('@/assets/img/tech_logo/cs.png', import.meta.url),
     },
     {
         title: 'MySQL',
-        img: '/src/assets/img/tech_logo/mysql.png',
+        img: new URL('@/assets/img/tech_logo/mysql.png', import.meta.url),
     },
     {
         title: 'WinForms',
-        img: '/src/assets/img/tech_logo/wf.png',
+        img: new URL('@/assets/img/tech_logo/wf.png', import.meta.url),
     },
     {
         title: 'EF',
-        img: '/src/assets/img/tech_logo/ef.png',
+        img: new URL('@/assets/img/tech_logo/ef.png', import.meta.url),
     },
 ]
 
 const frontend = [
     {
         title: 'JavaScript',
-        img: '/src/assets/img/tech_logo/js.png',
+        img: new URL('@/assets/img/tech_logo/js.png', import.meta.url),
     },
     {
         title: 'jQuery',
-        img: '/src/assets/img/tech_logo/jquery.png',
+        img: new URL('@/assets/img/tech_logo/jquery.png', import.meta.url),
     }
     ,
     {
         title: 'Vue',
-        img: '/src/assets/img/tech_logo/vue.png',
+        img: new URL('@/assets/img/tech_logo/vue.png', import.meta.url),
     },
     {
         title: 'Bootstrap',
-        img: '/src/assets/img/tech_logo/bs.svg',
+        img: new URL('@/assets/img/tech_logo/bs.svg', import.meta.url),
     },
     {
         title: 'SweetAlert',
-        img: '/src/assets/img/tech_logo/swal-donut.png',
+        img: new URL('@/assets/img/tech_logo/swal-donut.png', import.meta.url),
     },
     {
         title: 'HTML',
-        img: '/src/assets/img/tech_logo/html.png',
+        img: new URL('@/assets/img/tech_logo/html.png', import.meta.url),
     },
     {
         title: 'CSS',
-        img: '/src/assets/img/tech_logo/css.png',
+        img: new URL('@/assets/img/tech_logo/css.png', import.meta.url),
     }
 ]
 
 const others = [
     {
         title: 'Github',
-        img: '/src/assets/img/tech_logo/github.png',
+        img: new URL('@/assets/img/tech_logo/github.png', import.meta.url),
     },
     {
         title: 'Pusher  ',
-        img: '/src/assets/img/tech_logo/pusher-p.png',
+        img: new URL('@/assets/img/tech_logo/pusher-p.png', import.meta.url),
     }
     ,
     {
         title: 'Canva',
-        img: '/src/assets/img/tech_logo/canva.png',
+        img: new URL('@/assets/img/tech_logo/canva.png', import.meta.url),
     },
     {
         title: 'InfinityFree',
-        img: '/src/assets/img/tech_logo/infinityfree.png',
+        img: new URL('@/assets/img/tech_logo/infinityfree.png', import.meta.url),
     },
 ]
 
