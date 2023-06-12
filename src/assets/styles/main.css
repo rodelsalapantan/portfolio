@@ -5,8 +5,7 @@
   font-family: "Lexend Deca";
 }
 #app {
-  overflow-x: hidden;
-
+  overflow: hidden;
 }
 
 #app > main {
