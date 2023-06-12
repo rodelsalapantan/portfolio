@@ -1,7 +1,5 @@
 # My Personal Portfolio
 
-This shows my existing projects, things about me, and my contact details.
-
 
 
 ## Project Setup
@@ -14,10 +12,4 @@ npm install
 
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
