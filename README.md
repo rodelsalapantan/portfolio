@@ -13,3 +13,5 @@ npm install
 ```sh
 npm run dev
 ```
+
+#### Inspired by: Inspect27
