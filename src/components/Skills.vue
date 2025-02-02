@@ -90,7 +90,7 @@
                             <div class="row row-cols-3">
                                 <div class="col" v-for="item in others">
                                     <div>
-                                        <img :src="item.img" alt="img" height="45">
+                                        <img :src="item.img" alt="img" height="45" style="max-width: 100%">
                                     </div>
                                     <div>
                                         <p>{{ item.title }}</p>
@@ -112,14 +112,21 @@ import ThreeDots from '@/components/partials/ThreeDots.vue';
 
 const backend = [
     {
+        title: 'Express.js',
+        img: new URL('@/assets/img/tech_logo/express-js.png', import.meta.url),
+    },
+    {
+        title: 'Node.js',
+        img: new URL('@/assets/img/tech_logo/node-js.png', import.meta.url),
+    },
+    {
         title: 'Laravel',
         img: new URL('@/assets/img/tech_logo/laravel_noword.png', import.meta.url),
     },
     {
         title: 'PHP',
         img: new URL('@/assets/img/tech_logo/php.png', import.meta.url),
-    }
-    ,
+    },
     {
         title: 'C\#',
         img: new URL('@/assets/img/tech_logo/cs.png', import.meta.url),
@@ -176,7 +183,15 @@ const others = [
         img: new URL('@/assets/img/tech_logo/github.png', import.meta.url),
     },
     {
-        title: 'Pusher  ',
+        title: 'Slack',
+        img: new URL('@/assets/img/tech_logo/slack.png', import.meta.url),
+    },
+    {
+        title: 'Sentry',
+        img: new URL('@/assets/img/tech_logo/sentry.png', import.meta.url),
+    },
+    {
+        title: 'Pusher',
         img: new URL('@/assets/img/tech_logo/pusher-p.png', import.meta.url),
     }
     ,

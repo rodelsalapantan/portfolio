@@ -2,7 +2,6 @@
     <div class="border-bottom">
         <div id="top-contact" class="py-2 px-4">
             <span>
-                <i class="bi bi-telephone-fill me-2"></i> 09957855473
                 <i class="bi bi-envelope-fill me-2 ms-3"></i> rodelsalapantan@gmail.com
             </span>
         </div>

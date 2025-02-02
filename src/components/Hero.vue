@@ -12,7 +12,7 @@
 
         <div class="row" id="hero-main">
             <div class="col-md my-auto">
-                <h1 id="header-name" data-aos="fade-right" data-aos-delay="100">Rodel Salapantan</h1>
+                <h1 id="header-name" data-aos="fade-right" data-aos-delay="100">Rodel Chris Salapantan</h1>
                 <p data-aos="fade-right" data-aos-delay="300">Web Developer</p>
                 <p data-aos="fade-right" data-aos-delay="500">
                     From simple HTML design, I have honed my skills to tackle complex webpages, exemplifying my commitment

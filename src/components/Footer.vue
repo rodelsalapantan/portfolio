@@ -40,7 +40,7 @@
         </div>
 
         <div class="footer-banner">
-            <p class="mb-0 p-4">Made by: Rodel Chris Salapantan</p>
+            <p class="mb-0 p-4">Made by: Rodel Chris Salapantan • Vue</p>
             <a 
                 href="#top-contact" 
                 class="floating-btn text-decoration-none"

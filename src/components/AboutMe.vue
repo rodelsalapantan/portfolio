@@ -17,12 +17,7 @@
                     data-aos="fade-left" 
                     data-aos-duration="1000"
                     data-aos-delay="400"
-                >I'm an Information Technology student with a strong passion for web development. My dedication to
-                    mastering the intricacies of web structure fuels my curiosity and drives me to create awe-inspiring
-                    applications. With a keen eye for detail and a commitment to staying up-to-date with the latest
-                    technologies, I strive to deliver exceptional user experiences through my web development projects. As I
-                    continue my journey as a web developer, I am excited to contribute to the ever-evolving digital
-                    landscape and make a meaningful impact with my skills and creativity.</p>
+                >As a Backend Developer, I apply my skills in PHP and JavaScript to create efficient and scalable web applications. I have a Bachelor of Science in Information Technology from Cavite State University - General Trias City Campus, where I learned the fundamentals of computer systems and software development. I also have experience as a Graphics Designer and Website Developer at Cavite Mascot Rentals, where I designed and developed visually appealing websites for clients. Additionally, I have worked as an Encoder at Special Program for the Employment of Students - DOLE, where I gained valuable experience in data entry and processing. I am passionate about learning new technologies and improving my coding skills, and I am always eager to take on new challenges in the field of web development.</p>
             </div>
         </div>
     </div>
